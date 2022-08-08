@@ -1,0 +1,10 @@
+{
+  "botOwner": "BOT OWNER HERE",
+  "botPrefix": ".",
+  "botToken": "TOKEN HERE",
+  "guildID": "SERVER ID HERE",
+  "botVoiceChannelID": "BOT VOICE CHANNEL ID HERE",
+  "inviteChannelID": "BOT INVITE LOG CHANNEL ID HERE",
+  "play": "MNKN",
+  "status" : "inviter"
+}
